@@ -1,4 +1,4 @@
--  Hi, I’m @Central 
+-  Hi, I’m @Tanish 
 -  I’m interested in Machine Learning and similiar Technologies.
 -  I’m currently pursuing a Degree in CSE
 -  Looking to learn more in this field
