@@ -2,7 +2,7 @@
 -  I’m interested in Machine Learning and similiar Technologies.
 -  I’m currently pursuing a Degree in CSE
 -  Looking to learn more in this field
--  Pronouns: gas/lighter
+-  Pronouns: he/him
 
 
 <!---
